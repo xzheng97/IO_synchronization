@@ -1,0 +1,8 @@
+CS 537 Programming Assignment #2
+
+This program is about the synchronization with Threads and Shared Memory. Users will use four threads to get the result. The threads include reader, munch1, munch2, and writer. It has the features of reading each line of the input, replacing each space character with an asterisk character, converting all lower case letters to upper case, and write the line to standard output.
+
+
+Authors
+
+Youmin Han and Xianjie Zheng worked on the construction and improvement of the code together.
